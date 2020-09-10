@@ -1,0 +1,8 @@
+{
+  "packageRules": [
+    {
+      "updateTypes": ["major", "minor", "patch", "pin", "digest"],
+      "automerge": true
+    }
+  ]
+}
